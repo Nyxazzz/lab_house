@@ -1,7 +1,7 @@
 Pi-Hole Proxmox
 ----------------
-#Español  
-##📡 Pi-hole en Proxmox  
+**Español**  
+**📡 Pi-hole en Proxmox**  
 Pi-hole es un bloqueador de anuncios a nivel de red que actúa como un servidor DNS local. 
 Su principal función es bloquear anuncios y rastreadores en todos los dispositivos conectados a tu red, mejorando la velocidad de navegación, la privacidad y la seguridad. Es ideal para hogares, oficinas o cualquier entorno donde se desee una experiencia de navegación más limpia.
 
