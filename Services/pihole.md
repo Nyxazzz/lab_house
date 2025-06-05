@@ -27,7 +27,7 @@ It blocks ads and trackers across all devices connected to your network, improvi
  - Improves webpage loading speed.
  - Enhances the privacy of all connected devices.
 
-** Installation on Proxmox**  
+**Installation on Proxmox**  
 You can easily install Pi-hole on an LXC container within Proxmox using an automated script. Here's a trusted and updated guide to get started:
 
 🔗 https://tteck.github.io/Proxmox/
