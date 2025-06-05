@@ -9,7 +9,7 @@ Su principal función es bloquear anuncios y rastreadores en todos los dispositi
  - Mejora la velocidad de carga de páginas web.
  - Aumenta la privacidad de los dispositivos conectados.
 
-**Instalación en Proxmox**
+**Instalación en Proxmox**  
 Puedes instalar Pi-hole fácilmente en un contenedor LXC dentro de Proxmox utilizando un script automatizado. Aquí tienes una guía confiable y actualizada para hacerlo:
 
 🔗 https://tteck.github.io/Proxmox/
@@ -27,7 +27,7 @@ It blocks ads and trackers across all devices connected to your network, improvi
  - Improves webpage loading speed.
  - Enhances the privacy of all connected devices.
 
-** Installation on Proxmox**
+** Installation on Proxmox**  
 You can easily install Pi-hole on an LXC container within Proxmox using an automated script. Here's a trusted and updated guide to get started:
 
 🔗 https://tteck.github.io/Proxmox/
