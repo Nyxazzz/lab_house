@@ -1,4 +1,4 @@
-# 🧪 Lab House + Docker & Proxmox - Documentación del Proyecto / Project Documentation
+# 🧪 Lab House + Proxmox - Documentación del Proyecto / Project Documentation
 
 ## 📘 Español
 
