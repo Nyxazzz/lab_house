@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 **Español**  
 **Pihole en ProxMox**  
 Pi-hole es un bloqueador de anuncios a nivel de red que actúa como un servidor DNS local.  
@@ -26,7 +26,6 @@ Puedes instalar Pi-hole fácilmente en un contenedor LXC dentro de Proxmox utili
 Busca “Pi-hole LXC” dentro del sitio para ejecutar el script desde la shell de Proxmox.
 
 **English**  
-<<<<<<< HEAD
 **Pi-Hole on Proxmox**  
 Pi-hole is a network-wide ad blocker that functions as a local DNS server.  
 It blocks ads and trackers across all devices connected to your network, improving browsing speed, privacy, and security. It's perfect for homes, offices, or any environment where you want a cleaner browsing experience.
