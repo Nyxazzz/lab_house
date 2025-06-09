@@ -32,18 +32,6 @@ It blocks ads and trackers across all devices connected to your network, improvi
  - Improves webpage loading speed.
  - Enhances the privacy of all connected devices.
 
-**English**
-**📡 Pi-hole on Proxmox**  
-Pi-hole is a network-wide ad blocker that functions as a local DNS server. It blocks ads and trackers across all devices connected to your network, improving browsing speed, privacy, and security. It's perfect for homes, offices, or any environment where you want a cleaner browsing experience.
-
-**✅ What is Pi-hole used for?**  
-Blocks ads across your entire network—no browser extensions needed.
-
-Protects against trackers and malicious domains.
-
-Improves webpage loading speed.
-
-Enhances the privacy of all connected devices.
 
 **🚀 Installation on Proxmox**
 
