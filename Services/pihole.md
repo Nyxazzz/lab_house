@@ -22,7 +22,7 @@ Busca “Pi-hole LXC” dentro del sitio para ejecutar el script desde la shell 
 **English**  
 **Pi-Hole** 
 ----------------------
-**📡 Pi-hole on Proxmox** 
+**📡 Pi-hole on Proxmox**   
 Pi-hole is a network-wide ad blocker that functions as a local DNS server.  
 It blocks ads and trackers across all devices connected to your network, improving browsing speed, privacy, and security. It's perfect for homes, offices, or any environment where you want a cleaner browsing experience.
 
